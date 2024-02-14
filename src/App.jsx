@@ -4,6 +4,8 @@ import viteLogo from '/vite.svg'
 
 import Body from './Body'
 
+import "./css/App.css"
+
 function App() {
 
 
